@@ -203,6 +203,7 @@ func init() {
 	sus = append(sus, 2759439258)
 	sus = append(sus, 3096885038)
 	sus = append(sus, 2865471448)
+	sus = append(sus, 2913513349)
 	// sus = append(sus, 87654321)
 
 	if *runcfg != "" {
