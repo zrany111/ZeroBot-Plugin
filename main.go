@@ -136,7 +136,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" //
 
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" //
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" //
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
